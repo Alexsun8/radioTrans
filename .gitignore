@@ -1,0 +1,16 @@
+/model/*
+/bigdata/*
+/compareRes/*
+/beautiRes/*
+/data/*
+/results/*
+/.idea/*
+/newTranscribRes/*
+/smartTxt/*
+/7 Радио 7 Рязань ТР-705 16-59/*
+/smartCompareRes/*
+/dictsFromJson/*
+/alekseyData/*
+/newTranscribRes/*
+/jsonCompareRes/*
+/bigdata/old/*.ts
